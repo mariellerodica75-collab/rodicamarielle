@@ -1,5 +1,5 @@
-# Hi, I'm Rodica
-<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/61415026-0f33-436c-8588-5b8c32e408a3" />
+                      # Hi, I'm MArielle Rodica
+                 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/61415026-0f33-436c-8588-5b8c32e408a3" />
 
 
 ## About Me
